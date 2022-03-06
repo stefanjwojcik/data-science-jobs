@@ -7,6 +7,15 @@ H/T to TK
 
 Summary 
 
+### The DS Landscape
+* Databases and querying 
+* Technical design of data science products
+* Statistical Analysis and Hypothesis Testing
+* Causal Inference Approaches 
+* Machine Learning for prediction/classification
+* Forecasting and Time Series model
+
+
 ### Practical Tips
 * Tip 1
     + Sub tip 
